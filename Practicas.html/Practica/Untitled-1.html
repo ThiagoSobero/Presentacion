@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="estilos.css" type="text/css"/>
+</head>
+<body>
+    <form action="Formulariodealta">
+        <h1>Formulario de alta</h1>
+        <div id="cubo1">
+        <p id="palabra">No te olvides de escribir también tu segundo apellido</p>
+        <p class="til">Nombre y<br> apellidos * </p>
+        <div id="mov">
+        <input type="text" name="Nombre" />
+            <p>Nombre</p>
+            <input name="Apellidos" required />
+            <p>Primer Apellido</p>
+            <input name="Apellidos" required />
+            <p>Segundo Apellido</p>
+        </div>
+        </div>
+        <div id="cubo2">
+            <p id="palabra">El código postal es imprescindible para poder recibir los pedidos</p>
+            <p class="til">Dirección *</p> 
+            <div id="vom">
+            <input type="text" name="Calle,número,piso,puerta" />
+            <p>Calle,número,piso,puerta</p>
+            <input name="Código postal" required />
+            <input class="a" name="Municipio" required />
+            <p>Código postal</p>
+            <p class="c">Municipio</p>
+            <select name="Provincia">
+                <option>Almeria</option>
+                <option>Asturias</option>
+                <option>Madrid</option>
+            </select>
+            <select class="b" name="País">
+                <option>España</option>
+                <option>Andorra</option>
+                <option>Portugal</option>
+            </select>
+            <p>Provincia</p>
+            <p class="c">País</p>
+            </div>
+
+        </div>
+        <div id="cubo3">
+            <p id="palabra">asegúrate de  que sea válido</p>
+            <p class="til">Email <input class="g" type="text" name="Email" /></p> 
+        </div><br>
+        <div id="cubo4">
+            <p id="palabra">Sin prefijo de país y sin espacios en blanco</p>
+            <p class="til">Teléfono</p>
+            <div id="vmo">
+            <input type="text" name="Fijo" />
+            <input class="d" name="Móvil" required/>
+            <p class="e">Fijo</p>
+            <p class="f">Movíl</p>
+        </div>
+        </div>
+        <div id="cubo5">
+            <input type="submit" value="Darme de alta →" />
+        </div>
+
+    </form>
+</body>
+</html>

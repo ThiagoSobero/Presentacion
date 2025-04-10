@@ -1,0 +1,107 @@
+body{
+    background-color: gray;
+}
+form{
+    border: 1px solid black;
+    background-color: #fff;
+    padding-left: 10px;
+    padding-right: 10px;
+    width: 700px;
+    margin: auto;
+}
+form #palabra{
+    float: right;
+    width: 200px;
+    margin-top: -10px;
+    color: #fff;
+}
+#cubo3{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    border-top: black 1px solid;
+}
+#cubo1{
+ border-top: black 1px solid;
+ padding-top: 30px;
+}
+#cubo2{
+    border-top: black 1px solid;
+    padding-top: 30px;   
+}
+#cubo2 select{
+    width: 180px;
+}
+#cubo4{
+    border-top: black 1px solid;
+    padding-top: 30px;
+}
+#cubo1:hover{
+    background-image: url(fondo\ cubo.jpg);
+}
+#cubo2:hover{
+    background-image: url(fondo\ cubo.jpg);
+}
+#cubo3:hover{
+    background-image: url(fondo\ cubo.jpg);
+}
+#cubo4:hover{
+    background-image: url(fondo\ cubo.jpg);
+}
+#cubo4:hover #palabra{
+    color: black;
+}
+#cubo3:hover #palabra{
+    color: black;
+}
+#cubo2:hover #palabra{
+    color: black;
+}
+#cubo1:hover #palabra{
+    color: black;
+}
+#mov{
+    margin-left: 80px;
+    margin-top: -50px;
+}
+#cubo2 .a{
+    margin-left: 50px;
+}
+#vom{
+    margin-left: 80px;
+    margin-top: -30px;
+}
+#cubo2 .b{
+    margin-left: 50px;
+}
+#cubo2 .c{
+    margin-left: 240px;
+    margin-top: -40px;
+}
+#cubo4 .d{
+    margin-left: 50px;
+}
+#cubo4 .e{
+    margin-left: 60px;
+}
+#cubo4 .f{
+    margin-left: 290px;
+    margin-top: -30px;
+}
+#vmo{
+    margin-left: 70px;
+    margin-top: -30px;
+}
+#cubo5{
+    padding-top: 30px;
+    padding-bottom: 100px;
+    border-top: black 1px solid;
+}
+#cubo5 input{
+    width: 200px;
+    height: 50px;
+    font-size: 18px;
+    float: right;
+}
+form .til{
+    font-weight: bold; 
+}
