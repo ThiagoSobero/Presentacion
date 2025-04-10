@@ -18,14 +18,14 @@ esta contara con respectivos componentes que tendremos que darle forma para vali
 
 1. Etiqueta element
     Esta etiqueta tendra el nombre de la etiqueta fundamental de nuestro xml
-    ´´´
+    ```
     <xs:element name="marcadores">
     <!--  contenido  -->
     </xs:element>
-    ´´´
+    ```
 2. Etiqueta complex, sequence
     La etiqueta complex es una etiqueta compleja que define los datos, la sequence es una etiqueta que acompaña a la compleja, esta siendo parte fundamental para poder crear varíos datos en ella, haciendo que podamos meter otro element y otro complex con sus debidas estructuras
-    ´´´xsd
+    ```xsd
     <xs:complexType>
             <xs:sequence>
                 <xs:element name="pagina" maxOccurs="unbounded">
@@ -39,7 +39,7 @@ esta contara con respectivos componentes que tendremos que darle forma para vali
                 </xs:element>
             </xs:sequence>
         </xs:complexType>
-    ´´´
+    ```
 
 ## xml
 
@@ -57,15 +57,15 @@ Tendras que abrir la etiqueta de tu xsd principal para poder conectarte con ella
 una vez establecido el vinculo tendras que poner el correspondiente contenido
 1. Etiqueta pagina
     esta etiqueta es la segunda etiqueta princincipal del xml ya que esta se encargara de tener el resto de etiquetas y aparte sera esta etiqueta la que sera como una especie de entidad
-    ´´´
+    ```xml
     <pagina>
     <!--  contenido  -->
     </pagina>
-    ´´´
+    ```
 2. Etiquetas nombre, descripcion y url
     Estas etiquetas seran las que compondran la etiqueta pagina siendo estos las etiquetas que daran nombre a cada etiqueta pagina.
-    ´´´xml
+    ```xml
     <nombre>W3C</nombre>
     <descripcion>World Wide Web Consortium.</descripcion>
     <url>http://www.w3.org/</url>
-    ´´´
+    ```
