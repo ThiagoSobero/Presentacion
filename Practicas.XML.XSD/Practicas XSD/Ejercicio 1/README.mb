@@ -1,1 +1,10 @@
-hola
+# Practica marcadores
+
+consiste en crear un xml que convalide con un xsd
+
+## xml
+
+El xml constara por su clasica etiqueta de entrada
+```xml
+<?xml version="1.0" encoding="UTF-8"?>
+```
