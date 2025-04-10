@@ -1,7 +1,7 @@
 # Presentación sobre mi
 
 ## Estudiante
-Nombre: Carlos Thiago Sobero
+Nombre: Carlos Thiago Sobero Arimuya
 
 Correo Electronico: thiagosobero38@gmail.com (correo personal)
 ## Estudios
