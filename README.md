@@ -18,5 +18,5 @@ Ingles: medio-bajo
 
 ## Lenguajes de programacion
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,php,py,kotlin)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,php,py,kotlin,mysql)](https://skillicons.dev)
 
