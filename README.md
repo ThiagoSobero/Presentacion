@@ -8,7 +8,7 @@ Nombre: Carlos Thiago Sobero Arimuya
 Estudio un grado medio de sistemas microinformaticos y redes, actualmente estoy estudiando un grado superior de DAM (Desarrollo de Aplicaciones Multiplataforma).
 
 ## Experiencia laboral
-A fecha de esta publicación solo hice unas praticas de 1080 horas en una empresa de vallecas donde se encargaban del mantenimiento de varíos equipos informaticos
+A fecha de esta publicación hice unas praticas de 1080 horas en una empresa de vallecas donde se encargaban del mantenimiento de varíos equipos informaticos y otras de 120 horas de una base de datos de un torneo de baloncesto
 
 ## Idiomas
 Español: idioma natal
