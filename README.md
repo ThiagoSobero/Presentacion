@@ -19,8 +19,12 @@ Ingles: medio-bajo
 ## Lenguajes de programacion
 
 - Java
-- html
-- css
-- SQL (bajo nivel)
-- xml y xsd
+- Html
+- Css
+- SQL 
+- XML
+- Php
+- JavaScript
+- Python
+- Kotlin
 
