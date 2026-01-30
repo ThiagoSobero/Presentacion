@@ -4,7 +4,6 @@ Una pequeña presentación sobre mi
 ## Estudiante
 Nombre: Carlos Thiago Sobero Arimuya
 
-Correo Electronico: thiagosobero38@gmail.com (correo personal)
 ## Estudios
 Estudio un grado medio de sistemas microinformaticos y redes, actualmente estoy estudiando un grado superior de DAM (Desarrollo de Aplicaciones Multiplataforma).
 
@@ -20,3 +19,7 @@ Ingles: medio-bajo
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,java,php,py,kotlin,mysql)](https://skillicons.dev)
 
+## Contacto
+
+correo : thiagosobero38@gmail.com
+linkelink: 
