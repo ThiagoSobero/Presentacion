@@ -21,7 +21,7 @@ Ingles: medio-bajo
 - Java
 - Html
 - Css
-- SQL 
+- SQL 	https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=whit
 - XML
 - Php
 - JavaScript
