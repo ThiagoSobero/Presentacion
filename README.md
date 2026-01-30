@@ -22,4 +22,4 @@ Ingles: medio-bajo
 ## Contacto
 
 correo : thiagosobero38@gmail.com
-linkelink: 
+<a href="https://www.linkedin.com/in/felippegeorge/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>  
