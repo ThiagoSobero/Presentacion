@@ -24,4 +24,4 @@ Ingles: medio-bajo
 correo : thiagosobero38@gmail.com
 <br>
 <br>
-<a href="https://www.linkedin.com/in/felippegeorge/" target="_blank"><img alt="LinkedIn" src="" /></a>  
+<a href="https://www.linkedin.com/in/thiago-sobero-1555393a9" target="_blank"><img alt="LinkedIn" src="" /></a>  
