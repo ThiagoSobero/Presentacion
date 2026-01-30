@@ -21,10 +21,11 @@ Ingles: medio-bajo
 - Java
 - Html
 - Css
-- SQL 	https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=whit
+- SQL 
 - XML
 - Php
 - JavaScript
 - Python
 - Kotlin
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
